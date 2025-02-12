@@ -24,5 +24,5 @@
 
 ### 📫 Connect With Me  
 - 🌎 [Portfolio](#) 
-- 💼 [LinkedIn](www.linkedin.com/in/diptadip-maiti-357682207)
-- 📧 [Email](diptadip2001maiti@gmail.com) 
+- 💼 LinkedIn www.linkedin.com/in/diptadip-maiti-357682207
+- 📧 Email diptadip2001maiti@gmail.com 
